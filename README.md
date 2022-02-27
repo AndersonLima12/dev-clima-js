@@ -24,8 +24,8 @@
 <br/>
   
 ## - Sobre o projeto ! 🤔
- <strong>Dev Clima:</strong> Esta é uma aplicação voltada a informação sobre o clima de determinada região. O projeto está cosumindo a API
- <a href="https://openweathermap.org/" target="_blank">Open Weather</a> esté é o link para quem tiver interesse. Projeto 100% responsivo.📱
+ <strong>Dev Clima:</strong> Esta é uma aplicação voltada a informação sobre o clima de determinada região em todo mundo. O projeto está consumindo a API
+ <a href="https://openweathermap.org/" target="_blank">Open Weather</a> este é o link para quem tiver interesse. Projeto 100% responsivo.📱
  
  ## 🛠 &nbsp; Tecnologias usadas.
 
