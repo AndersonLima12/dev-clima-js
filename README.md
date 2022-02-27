@@ -37,7 +37,7 @@
 ## - Imagens do projeto...😁
 
 <h1 align="center">
-  <img align="right" width="620em" alt="Desktop Result" title="#Desktop" src="/assets/img/Desktop - 2.png" />
+  <img align="right" width="520em" alt="Desktop Result" title="#Desktop" src="/assets/img/Desktop - 2.png" />
   <img height="320em" alt="Mobile Result" title="#Mobile" src="/assets/img/mobile - 2.png" />
 </h1>
 
